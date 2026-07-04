@@ -1,0 +1,13 @@
+{
+    "id": "batch_converter",
+    "version": "0.1.1",
+    "name": "Batch Converter",
+    "description": "Convert multiple 3D files in batch with a single click.",
+    "type": "add-on",
+    "authors": ["Code2"],
+    "blender_version_min": "5.0.0",
+    "category": "Import-Export",
+    "license": ["GPL-3.0-or-later"],
+    "homepage": "https://github.com/Code2/blender_batch_converter",
+    "tracker_url": "https://github.com/Code2/blender_batch_converter/issues"
+}
